@@ -23,7 +23,7 @@ body {
     flex-direction: column;
     border-radius: 1rem;
     box-shadow: 12px 12px 12px rgba($color: #000000, $alpha: 0.3);
-    background-image: url('/images/bg-pattern-mobile.svg');
+    background-image: url('./images/bg-pattern-mobile.svg');
     background-repeat: no-repeat;
     background-position: top center;
     margin: 3rem;   
@@ -34,7 +34,7 @@ body {
         align-items: center;
         max-width: 56.25rem;
         background-color: white;
-        background-image: url('/images/bg-pattern-desktop.svg');
+        background-image: url('./images/bg-pattern-desktop.svg');
         background-position: -83% 85%;
         
         background-size: 65%;
